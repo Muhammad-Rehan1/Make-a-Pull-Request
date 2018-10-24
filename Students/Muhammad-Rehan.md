@@ -8,4 +8,4 @@ JavaScript
 JQuery
 Bootstrap
 PHP framework 
-etc
+etc.
